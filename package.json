@@ -17,5 +17,13 @@
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shabutie93/nucamp-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shabutie93/nucamp-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Shabutie93/nucamp-bootstrap#readme"
 }
