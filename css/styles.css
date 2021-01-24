@@ -13,6 +13,10 @@ h2 {
 header h2{
     color: #cec8ff;
 }
+a, a:hover {
+    color: inherit;
+    text-decoration: none;
+  }
 
 .site-footer {
     background-image: linear-gradient(#CEC8ff, white);
@@ -38,4 +42,10 @@ header h2{
 
 .bg-teal{
     color: #008080
+}
+
+.tab-content {
+border: 1px solid #DDD;
+border-top: none;
+padding: 10px;
 }
